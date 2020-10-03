@@ -1,0 +1,7 @@
+main.c:67:5:main	8	static
+main.c:135:6:SystemClock_Config	72	static
+main.c:171:13:MX_GPIO_Init	32	static
+main.c:218:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:232:6:Effect_1	8	static
+main.c:252:6:Effect_2	8	static
+main.c:272:6:Error_Handler	4	static
